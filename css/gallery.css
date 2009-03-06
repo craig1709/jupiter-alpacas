@@ -1,0 +1,17 @@
+ul#gallery {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+ul#gallery li {
+	background-color: #f60;
+	float: left;
+	padding: .5em;
+	margin: .5em;
+}
+
+ul#gallery a img {
+	border: 0;
+	width: 160px;
+}

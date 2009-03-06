@@ -1,0 +1,27 @@
+ul#menu {
+	background-color: #f60;
+	list-style-type: none;
+	line-height: 2em;
+	margin: 0;
+	padding: 0;
+}
+
+ul#menu li {
+	display: inline;
+	padding: 0;
+	margin: 0;
+	text-align: center;
+}
+
+ul#menu li a {
+	border: 1px solid #f60;
+	color: #fff;
+	padding: .4em 1.5em;
+	text-decoration: none;
+}
+
+ul#menu li a:hover {
+	border: 1px solid #fff;
+	background-color: #fff;
+	color: #000;
+}

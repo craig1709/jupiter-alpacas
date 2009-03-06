@@ -1,0 +1,31 @@
+#content {
+	color: #fff;
+	float: left;
+	margin: 0 1em;
+	width: 65%;
+}
+
+#content p {
+	margin-bottom: 1em;
+}
+
+#content .button {
+	float: left;
+	margin: 0 1em 0 0;
+	text-align: center;
+	width: 8em;
+}
+
+#content .button a {
+	color: #fff;
+	font-weight: bold;
+}
+
+#content .button a:hover {
+	color: #f60;
+}
+
+#content .button a img {
+	display: block;
+	margin: 0 auto;
+}

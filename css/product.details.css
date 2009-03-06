@@ -1,0 +1,40 @@
+body#product-details {
+	padding: 1em;
+}
+
+body#product-details p {
+	margin-bottom: 1em;
+}
+
+body#product-details #size-info {
+	position: relative;
+	top: -1em;
+	font-size: .9em;
+	margin: 0;
+}
+
+body#product-details #description {
+	background-color: #fff;
+	float: right;
+	padding: 1em;
+	width: 386px;
+}
+
+body#product-details #description ul {
+	list-style-type: square;
+	margin: 0 0 1em 1em;
+}
+
+body#product-details label {
+	display: inline;
+	margin-left: 1em;
+	float: none;
+}
+
+body#product-details h2 {
+	color: #000;
+	font-size: 1em;
+	font-style: italic;
+	font-weight: bold;
+	margin-bottom: .25em;
+}

@@ -1,0 +1,31 @@
+<?php defined('SYSPATH') or die('No direct script access.'); ?>
+
+2009-02-13 01:27:11 -- error: core.uncaught_exception
+2009-02-13 01:30:45 -- error: core.uncaught_exception
+2009-02-13 01:48:31 -- error: core.uncaught_exception
+2009-02-13 02:50:36 -- error: core.uncaught_exception
+2009-02-13 02:52:43 -- error: core.uncaught_exception
+2009-02-13 02:52:44 -- error: core.uncaught_exception
+2009-02-13 03:32:40 -- error: core.uncaught_exception
+2009-02-13 04:01:04 -- error: core.uncaught_exception
+2009-02-13 04:59:09 -- error: core.uncaught_exception
+2009-02-13 07:19:22 -- error: core.uncaught_exception
+2009-02-13 15:21:30 -- error: core.uncaught_exception
+2009-02-13 17:01:07 -- error: core.uncaught_exception
+2009-02-13 18:06:23 -- error: core.uncaught_exception
+2009-02-13 18:06:40 -- error: core.uncaught_exception
+2009-02-13 18:06:46 -- error: core.uncaught_exception
+2009-02-13 18:07:39 -- error: core.uncaught_exception
+2009-02-13 18:07:46 -- error: core.uncaught_exception
+2009-02-13 18:08:39 -- error: core.uncaught_exception
+2009-02-13 18:09:26 -- error: core.uncaught_exception
+2009-02-13 18:09:30 -- error: core.uncaught_exception
+2009-02-13 18:12:28 -- error: core.uncaught_exception
+2009-02-13 18:12:31 -- error: core.uncaught_exception
+2009-02-13 19:21:20 -- error: core.uncaught_exception
+2009-02-13 19:21:31 -- error: core.uncaught_exception
+2009-02-13 19:22:00 -- error: core.uncaught_exception
+2009-02-13 19:29:08 -- error: core.uncaught_exception
+2009-02-13 21:02:30 -- error: core.uncaught_exception
+2009-02-13 21:46:13 -- error: core.uncaught_exception
+2009-02-13 23:58:46 -- error: core.uncaught_exception

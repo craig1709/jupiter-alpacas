@@ -1,0 +1,9 @@
+form#contact input[type=text], form#contact select, textarea {
+	font-family: Arial, sans-serif;
+	font-size: 1em;
+	width: 20em;
+}
+
+form#contact p {
+	margin: .5em 0;
+}

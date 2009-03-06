@@ -1,0 +1,94 @@
+body, html {
+				background-color: #208020;
+				color: #fff;
+				font-family: Arial, sans-serif;
+			}
+			
+			#choices {
+				margin: 0 auto;
+				width: 450px;
+			}	
+			
+			h1 {
+				margin: 0 auto;
+				width: 300px;
+			}		
+			
+			h2 {
+				float: left;
+				margin: 0 37px;
+				width: 150px;
+				text-align: center;
+			}
+			
+			h2 a {
+				display: block;
+				color: #000;
+				font-weight: bold;
+				font-size: .7em;
+				line-height: 26px;
+				padding-top: 35px;
+				height: 156px;
+				width: 150px;
+				text-decoration: none;
+			}
+			
+			h2 a:hover {
+				background: transparent url('/images/button_hover2.png') scroll no-repeat top left;
+			}
+			
+			h2#breeder {
+				background: transparent url('/images/button_breeder2.png') scroll no-repeat top left;
+			}
+			
+			h2#garments {
+				background: transparent url('/images/button_garments2.png') scroll no-repeat top left;
+			}
+			
+			img#banner {
+				clear: both;
+				display: block;
+				margin: 0 auto;
+			}
+			
+			p {
+				margin: 1em auto 1em auto;
+				width: 960px;
+			}
+			
+			#buttons {
+				position: absolute;
+				top: 8em;
+				right: 1em;
+				width: 10em;
+			}
+			
+			.button img {
+				border: 0;
+				display: block;
+				margin: 0 auto 1em auto;
+			}
+			
+			.button {
+				margin-left: 15%;
+				margin-bottom: 6em;
+				width: 150px;
+				text-align: center;
+			}
+			
+			.button a {
+				color: #fff;
+				font-weight: bold;
+				text-decoration: none;
+			}
+			
+			.button a:hover {
+				color: #f60;
+			}
+			
+			#wrapper {
+				text-align: center;
+			}
+			
+			#tagline {
+			}

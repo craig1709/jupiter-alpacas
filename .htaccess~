@@ -1,0 +1,9 @@
+RewriteEngine On
+
+#Remove index.php from URLs
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ /index.php5/$1
+
+# Increase the PHP memory limit (required for large files) to 16M
+php_value memory_limit 48M

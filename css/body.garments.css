@@ -1,0 +1,14 @@
+#body-garments #sidebar h2 {
+	color: #fff;
+	display: block;
+}
+
+#body-garments #sidebar {
+	padding-top: 0;
+	border: 0;
+	background-color: transparent;
+}
+
+#body-garments #sidebar a {
+	color: #fff;
+}
